@@ -1,2 +1,3 @@
-pet711
+QTL ROCKS
 ======
+resources aboout statistical genetics
