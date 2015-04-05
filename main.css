@@ -28,7 +28,7 @@
 .jumbotron h1 {
   color: white;
   font-size: 80px;//48px  
-  font-family: Impact, Charcoal, sans-serif;;  
+  font-family: Impact, Charcoal, sans-serif; 
   //font-family: 'Shift', sans-serif;
   font-weight: bold;
   //position: relative;
@@ -74,4 +74,11 @@
 .neighborhood-guides p{
     font-size: 15px;
     margin-bottom: 13px;
+}
+
+
+.neighborhood-guides h3 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
