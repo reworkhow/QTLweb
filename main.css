@@ -78,7 +78,8 @@
 
 
 .neighborhood-guides h3 {
-  font-family: Impact, Charcoal, sans-serif;
-  font-size: 30px;
+  //font-family: Impact, Charcoal, sans-serif;
+  font-family:‘Courier New’;
+  font-size: 25px;
   font-weight: bold;
 }
