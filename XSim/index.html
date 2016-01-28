@@ -38,11 +38,10 @@
 
 <pre><code>
 > using XSim
-> XSim.init(numChr,numLoci,chrLength,genFreq,mapPos,mutRate)
-> pop1 = XSim.startPop()
-> pop1.popSample(ngen,popSize)
-> pop2 = pop1.popNew(nInd)
-> pop3 = XSim.popCross(nInd,pop1,pop2)
+> XSim.init(numChr,numLoci,chrLength,geneFreq,mapPos,qtlMarker,qtlEffects,mutRate)
+> popSizeFounder = 2
+> sires = sampleFounders(popSizeFounder)
+> sires1,dams1,gen1 = sampleRan(popSize, ngen, sires, dams);
 </code></pre>
 
 <h3>
