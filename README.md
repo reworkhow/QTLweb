@@ -1,3 +1,3 @@
 QTL ROCKS
 ======
-resources aboout statistical genetics
+Quantitative Genetics Lab at UC Davis
